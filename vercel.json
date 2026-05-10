@@ -3,6 +3,30 @@
     {
       "source": "/h1",
       "destination": "/hpc1.cpp"
+    },
+    {
+      "source": "/h2",
+      "destination": "/hpc2.cpp"
+    },
+    {
+      "source": "/h3",
+      "destination": "/hpc3.cpp"
+    },
+    {
+      "source": "/d1",
+      "destination": "/dl1.py"
+    },
+    {
+      "source": "/d2",
+      "destination": "/dl2.py"
+    },
+    {
+      "source": "/d3",
+      "destination": "/dl3.py"
+    },
+    {
+      "source": "/d4",
+      "destination": "/dl4.py"
     }
   ]
 }
