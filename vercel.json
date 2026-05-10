@@ -27,6 +27,22 @@
     {
       "source": "/d4",
       "destination": "/dl4.py"
+    },
+    {
+      "source": "/h51",
+      "destination": "/hpc51.txt"
+    },
+    {
+      "source": "/h52",
+      "destination": "/h52.txt"
+    },
+    {
+      "source": "/p",
+      "destination": "/pick.txt"
+    },
+    {
+      "source": "/c",
+      "destination": "/cmd.txt"
     }
   ]
 }

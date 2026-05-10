@@ -1,0 +1,7 @@
+cpp compilation 
+!g++ filename.cpp -o filename
+!./filename
+
+cuda compilation
+!nvcc filename.cu -o filename
+!./filename
