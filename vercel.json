@@ -2,31 +2,31 @@
   "rewrites": [
     {
       "source": "/h1",
-      "destination": "/hpc1.cpp"
+      "destination": "/hpc1.txt"
     },
     {
       "source": "/h2",
-      "destination": "/hpc2.cpp"
+      "destination": "/hpc2.txt"
     },
     {
       "source": "/h3",
-      "destination": "/hpc3.cpp"
+      "destination": "/hpc3.txt"
     },
     {
       "source": "/d1",
-      "destination": "/dl1.py"
+      "destination": "/dl1.txt"
     },
     {
       "source": "/d2",
-      "destination": "/dl2.py"
+      "destination": "/dl2.txt"
     },
     {
       "source": "/d3",
-      "destination": "/dl3.py"
+      "destination": "/dl3.txt"
     },
     {
       "source": "/d4",
-      "destination": "/dl4.py"
+      "destination": "/dl4.txt"
     },
     {
       "source": "/h51",
