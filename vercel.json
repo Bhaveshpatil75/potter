@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/h1",
+      "destination": "/hpc1.cpp"
+    }
+  ]
+}
