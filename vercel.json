@@ -13,6 +13,10 @@
       "destination": "/hpc3.txt"
     },
     {
+      "source": "/h4",
+      "destination": "/hpc4.txt"
+    },
+    {
       "source": "/d1",
       "destination": "/dl1.txt"
     },
